@@ -45,7 +45,6 @@
     font-weight: bold;
     margin-left: 100px;
   }
-
   .share {
     display: flex;
     justify-content: center;
