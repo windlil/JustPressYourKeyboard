@@ -5,7 +5,7 @@ Using the Vue framework to achieve a small web game, through the mouse button cl
 ![image](https://github.com/SpacesoulsL/JustPressYourKeyboard/blob/main/src/assets/home.png)
 
 ## How to play？🤔
-[click this](https://spacesoulsl.github.io/JustPressYourKeyboard/)
+
 1. Select the configuration you like on the home page.
 2. Press the space bar to start the game.
 3. At the beginning of the game, there are many letters and numbers that need to be eliminated, and you only need to press the corresponding keyboard keys to eliminate them.
