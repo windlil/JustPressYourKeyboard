@@ -16,3 +16,5 @@ Using the Vue framework to achieve a small web game, through the mouse button cl
 
 
 ⭐**If you like this game, or find this project inspiring for you, please give me a star, thanks!**⭐
+
+![image](https://github.com/SpacesoulsL/JustPressYourKeyboard/blob/main/src/assets/test.png)
