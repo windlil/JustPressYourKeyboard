@@ -2,6 +2,8 @@
 
 Using the Vue framework to achieve a small web game, through the mouse button click to eliminate the alphanumeric box, there is a timer function, see how fast you can complete it!
 
+![image](https://github.com/SpacesoulsL/JustPressYourKeyboard/blob/main/src/assets/home.png)
+
 ## How to play？🤔
 
 1. Select the configuration you like on the home page.
